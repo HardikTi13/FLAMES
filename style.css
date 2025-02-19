@@ -1,0 +1,24 @@
+body{
+
+    background-color: black;
+  
+}
+
+.container{
+    height: 70rem;
+    width: 100rem;
+    background-color: antiquewhite;
+    margin: auto;
+    margin-top: 5rem;
+   
+   
+
+    
+}
+.we12{
+    height: 70%;
+    width: 70%;
+    margin: auto;
+    background-color: aqua;
+   
+}
